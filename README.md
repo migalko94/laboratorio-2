@@ -86,4 +86,4 @@ Archivo de TypeScript: _.ts_
 
 > Fin del laboratorio
 
-**Resubimos el laboratorio con la sandbox de TS, en cuyo main implementamos la solución.**
+**Resubimos el laboratorio con la sandbox de TS, en cuyo main implementamos la solución. Quitamos .DS_Store**
