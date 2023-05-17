@@ -87,3 +87,5 @@ Archivo de TypeScript: _.ts_
 > Fin del laboratorio
 
 **Resubimos el laboratorio con la sandbox de TS, en cuyo main implementamos la solución. Quitamos .DS_Store**
+
+**Correcciones práctica: borramos ficheros .js y .ts así como quitamos nodulemodules con .gitignore**
